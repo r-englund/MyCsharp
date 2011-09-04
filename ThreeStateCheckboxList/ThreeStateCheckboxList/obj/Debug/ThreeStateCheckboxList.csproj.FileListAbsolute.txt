@@ -1,0 +1,10 @@
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\bin\Debug\ThreeStateCheckboxList.exe
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\bin\Debug\ThreeStateCheckboxList.pdb
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.Form1.resources
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.Properties.Resources.resources
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.csproj.GenerateResource.Cache
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.exe
+C:\Documents and Settings\tvn\Local Settings\Application Data\Temporary Projects\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.pdb
+C:\Documents and Settings\tvn\My Documents\Visual Studio 2008\Projects\ThreeStateCheckboxList\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.exe
+C:\Documents and Settings\tvn\My Documents\Visual Studio 2008\Projects\ThreeStateCheckboxList\ThreeStateCheckboxList\obj\Debug\ThreeStateCheckboxList.pdb
